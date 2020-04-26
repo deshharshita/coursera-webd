@@ -1,0 +1,44 @@
+section {
+	        color: black;
+			background-color: gray;
+			border: 1px solid black;
+			margin-right: 10px;
+			margin-left: 9px;
+			padding-left: 8px;
+			margin-bottom: 15px;
+			position: relative;
+			height: 125px;
+			}
+		h1 {
+			text-align: center;
+			margin-bottom: 50px;
+			
+		}
+		h2 {
+			border: 1px solid black;
+			text-align: center;
+			padding-left: 10px;
+			padding-right: 10px;
+			padding-bottom: 1px;
+			padding-top: 1px;
+			width: 33.33%;
+			margin-top: 0;
+			position: absolute;
+			top: 0;
+			right: 0;
+
+
+
+
+
+			
+
+
+		}
+		section p {
+			clear: right;
+			position: relative;
+			top: 35.6px;
+
+		}
+		
